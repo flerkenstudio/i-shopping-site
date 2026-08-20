@@ -1,0 +1,6 @@
+{
+  "name": "Vistora Minimalist Commerce",
+  "description": "High-performance minimalist shopping experience featuring lazy-loaded catalog, Redis caching layer simulation, real-time inventory management, and a streamlined one-page mobile checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
